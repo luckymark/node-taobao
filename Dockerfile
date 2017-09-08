@@ -1,4 +1,4 @@
-FROM  node:8.1.0
+FROM  node:8.4.0-alpine
 
 RUN npm config set registry=http://registry.npm.taobao.org
 
