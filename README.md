@@ -1,4 +1,4 @@
-# node-alpine-taobao
+# node-taobao
 
 ## set registry to taobao
 
