@@ -1,4 +1,4 @@
-FROM  node:8.4.0
+FROM  node:8.11.0
 
 RUN npm config set registry=http://registry.npm.taobao.org
 
