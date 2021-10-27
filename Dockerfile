@@ -1,5 +1,5 @@
 ARG NODE_VERSION=12.18.3
-FROM node:${NODE_VERSION}-alpine
+FROM node:${NODE_VERSION}
 
 RUN npm config set registry=http://registry.npm.taobao.org
 
